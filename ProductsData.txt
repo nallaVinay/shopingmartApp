@@ -1,0 +1,10 @@
+1000,15 inc laptop,785.50,electronics
+1001,caculator,34.50,electronics
+1002,tennis racket,157.95,sport
+1003,high res camera,25.95,electronics
+1004,squash racket,45.99,sports
+1005,golf clubs,295.99,sports
+1006,AI fundamentals,75.99,books
+1007,cloud computing,49.99,books
+1008,deep learning,68.50,books
+1009,toybus,4,toys
